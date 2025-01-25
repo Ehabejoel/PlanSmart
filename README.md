@@ -51,5 +51,5 @@ Join our community of developers creating universal apps.
 
 ## ScreenShots
 
-<img src="screenshots/Home.jpg" alt="Homepage Screenshot" width="400">
-<img src="screenshots/Calendar.jpg" alt="Calendar Screenshot" width="400">
+<img src="screenshots/Home.jpg" alt="Homepage Screenshot" width="300">
+<img src="screenshots/Calendar.jpg" alt="Calendar Screenshot" width="300">
